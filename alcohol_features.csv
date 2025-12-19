@@ -1,0 +1,45 @@
+features
+Age at First Drink
+Trouble Paying Attention
+LowReligiousImportance
+peer_alcohol_count
+Delinquency_Index
+FriendsRespect_Sex
+Rev_FeelGuilty_Sex
+Rev_UpsetMother_Sex
+Relax_Sex
+Attractive_Sex
+LessLonely_Sex
+GPA_Index
+ParentalWarmth_Index
+ParentalSupervision_Index
+SchoolCloseness
+SchoolSuspension
+Mother_Education
+Father_Education
+Household_Income
+Bills_Payment_Ability
+HomeDrugRisk_Index
+BuildingCondition
+StreetCondition
+SuicidalIdeation
+ReligionGroup_Buddhist
+ReligionGroup_Catholic
+ReligionGroup_Eastern Orthodox
+ReligionGroup_Hindu
+ReligionGroup_Jewish
+ReligionGroup_Muslim
+ReligionGroup_Other
+ReligionGroup_Protestant
+BuildingType_2
+BuildingType_3
+BuildingType_4
+BuildingType_5
+BuildingType_7
+NeighborhoodType_2
+NeighborhoodType_3
+NeighborhoodType_4
+NeighborhoodType_5
+NeighborhoodType_6
+Sex_Female
+BuildingType_6
